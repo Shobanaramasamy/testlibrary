@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test library with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shobanaramasamy/testlibrary.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "shobana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shobanaramasamy/testlibrary/issues"
+  },
+  "homepage": "https://github.com/Shobanaramasamy/testlibrary#readme"
+}
