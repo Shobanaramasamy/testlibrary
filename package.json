@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "version": "1.0.0",
+  "name": "test_library_v1",
+  "version": "2.0.0",
   "description": "test library with node",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Shobanaramasamy/testlibrary/issues"
   },
-  "homepage": "https://github.com/Shobanaramasamy/testlibrary#readme"
+  "homepage": "https://github.com/Shobanaramasamy/testlibrary#readme",
+  "dependencies": {
+    "title-case-converter": "^2.0.0"
+  }
 }
